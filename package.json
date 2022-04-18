@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@angular-devkit/core": "^13.3.3"
+  }
+}
